@@ -66,6 +66,7 @@ module.exports = function (req, res, url) {
 					collab: 0,
 					nextUrl: "../pages/html/list.html",
 					noSkipTutorial: 1,
+					tray: "retro",
 				},
 				allowScriptAccess: "always",
 				allowFullScreen: "true",
