@@ -238,8 +238,8 @@ if (self !== top) {
         <div class="close"><a href="javascript:hideVoiceAdWidget()" onclick="javascript:return hideVoiceAdWidget()">×</a></div>
         <div id="studio-voice-vendor-container">
             <ul>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_iw.png"/></a></li>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-va" target="_blank" href="https://www.voicearchive.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceArchive" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vb.png"/></a></li>
+                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vb.png"/></a></li>
+		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-va" target="_blank" href="https://www.voicearchive.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceArchive" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_va.png"/></a></li>
 		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-vc" target="_blank" href="https://voices.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/Voices.com" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vc.png"/></a></li>
                 <li>
                     <hr class="sperator"/>
@@ -819,10 +819,10 @@ VideoTutorial.tutorials.enterexit = {
         <div class="close"><a href="javascript:hideVoiceAdWidget()" onclick="javascript:return hideVoiceAdWidget()">×</a></div>
         <div id="studio-voice-vendor-container">
             <ul>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_iw.png"/></a></li>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-va" target="_blank" href="https://www.voicearchive.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceArchive" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vb.png"/></a></li>
-		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-vc" target="_blank" href="https://voices.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/Voices.com" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vc.png"/></a></li>
-                <li>
+                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vb.png"/></a></li>
+		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-va" target="_blank" href="https://www.voicearchive.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceArchive" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_va.png"/></a></li>
+		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-vc" target="_blank" href="https://voices.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/Voices.com" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vc.png"/></a></li>                
+		<li>
                     <hr class="sperator"/>
                     <a class="voiceover-tips gtm-ga-pageview-t2" target="_blank" href="https://josephcrosmanplays532.github.io/video-maker-tips/tutorial-why-you-should-break-up-your-dialogue-audio-into-small-pieces-before-importing/" data-gtmv-page="/pageTracker/voicebanner/VoiceoverTips" onclick="setvoicebannercookie();"><span><i class="lightbulb"></i>Voiceover Tips &gt;</span></a>
                 </li>
@@ -832,10 +832,10 @@ VideoTutorial.tutorials.enterexit = {
         <div class="close"><a href="javascript:hideVoiceAdWidget()" onclick="javascript:return hideVoiceAdWidget()">×</a></div>
         <div id="studio-voice-vendor-container">
             <ul>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_iw.png"/></a></li>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-va" target="_blank" href="https://www.voicearchive.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceArchive" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vb.png"/></a></li>
-		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-vc" target="_blank" href="https://voices.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/Voices.com" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vc.png"/></a></li>
-                <li>
+                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vb.png"/></a></li>
+		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-va" target="_blank" href="https://www.voicearchive.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceArchive" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_va.png"/></a></li>
+		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-vc" target="_blank" href="https://voices.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/Voices.com" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vc.png"/></a></li>                
+		<li>
                     <hr class="sperator"/>
                     <a class="voiceover-tips gtm-ga-pageview-t2" target="_blank" href="https://josephcrosmanplays532.github.io/video-maker-tips/tutorial-why-you-should-break-up-your-dialogue-audio-into-small-pieces-before-importing/" data-gtmv-page="/pageTracker/voicebanner/VoiceoverTips" onclick="setvoicebannercookie();"><span><i class="lightbulb"></i>Voiceover Tips &gt;</span></a>
                 </li>
